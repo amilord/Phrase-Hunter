@@ -3,4 +3,4 @@ In this project I created a word "Phrase Hunter" game kind of like a digital han
 Sources used for this project:
 MDN
 W3
-Srudy Guide, and Videos from unit 4
+Study Guide, and Videos from unit 4
