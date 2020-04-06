@@ -4,3 +4,12 @@ Sources used for this project:
 MDN
 W3
 Study Guide, and Videos from unit 4
+
+Extra Credit:
+
+Add keyboard functionality
+Let players use their physical computer keyboard to enter guesses. You'll need to use the keydown or keyup event.
+
+Making the project your own
+The general layout should remain the same, but feel free to make the project your own by experimenting with things like color, background color, font, borders, shadows, transitions, animations, filters, etc.
+Detail your style changes in your README.md file and in your submission notes.
