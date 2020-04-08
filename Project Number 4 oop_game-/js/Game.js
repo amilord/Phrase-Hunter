@@ -11,9 +11,7 @@ class Game {
 	}
 
 	createPhrases() {
-		this.phrases[0] = new Phrase(
-			"Life is like a box of chocolates"
-		);
+		this.phrases[0] = new Phrase("Let the good times roll");
 		this.phrases[1] = new Phrase("Life is good");
 		this.phrases[2] = new Phrase("Social distancing sucks");
 		this.phrases[3] = new Phrase("Wash your hands");

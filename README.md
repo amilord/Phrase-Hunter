@@ -7,9 +7,6 @@ Study Guide, and Videos from unit 4
 
 Extra Credit:
 
-Add keyboard functionality
-Let players use their physical computer keyboard to enter guesses. You'll need to use the keydown or keyup event.
+I added keyboard functionality which lets the players use their physical computer keyboard to enter guesses.
 
-Making the project your own
-The general layout should remain the same, but feel free to make the project your own by experimenting with things like color, background color, font, borders, shadows, transitions, animations, filters, etc.
-Detail your style changes in your README.md file and in your submission notes.
+I made the project my own by experimenting with the backgrounds, adding an image in the css file, and changing the background of the colors in the keyboard.
